@@ -1,2 +1,2 @@
 - 👋 Hi, there!
-- Hello, my name is Natasha! I'm MIPT sudent.
+- Hello, my name is Natasha! I'm MIPT sudent(2 sem).
