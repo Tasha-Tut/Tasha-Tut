@@ -1,5 +1,5 @@
 👋 Hi, there!
-Hello, my name is Natalia! I'm currently in my 1'st year MIPT FPMI.
+Hello, my name is Natalia! I'm currently in my 1'st year MIPT DIHT(FPMI).
 
 ## Languages:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95243594/219369141-2cf71e79-366d-4c1f-86e0-f1d068eee52f.svg)  
